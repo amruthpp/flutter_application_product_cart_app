@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_application_product_cart_app/controller/home_screen_controller.dart';
 import 'package:flutter_application_product_cart_app/view/home_screen/cart_screen/cart_screen.dart';
