@@ -19,7 +19,7 @@ class GetStartedScreen extends StatelessWidget {
               image: DecorationImage(
                   fit: BoxFit.fitHeight,
                   image: NetworkImage(
-                      "https://i.pinimg.com/564x/c6/cb/b4/c6cbb4c1da59c00bf6dffa19d33d3df1.jpg"))),
+                      "https://in.pinterest.com/pin/28640147622803221/"))),
         )),
         Padding(
           padding: const EdgeInsets.all(10),
